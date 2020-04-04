@@ -9,7 +9,7 @@ celsiFahren = print("{}C para Fahrenheit é igual a: {}".format(celsi, conv1))
 celsiKelvin = print("{}C para Kelvin é igual a: {}".format(celsi, conv2))
 
 
-
+# .
 #print("Fahrenheit para Celsius = (F - 32) * 5/9 = C")
 #print("Fahrenheit para Kelvin = (F - 32) * 5/9 + 273.15 = K ")
 fahren = float(input("Digite o valor em Fahrenheit: "))
