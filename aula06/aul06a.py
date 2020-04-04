@@ -7,5 +7,3 @@ print('A soma entre {0} e {1} vale {2}'.format(n1, n2, s))
 # virgulas para adicionar variaveis em um mesmo comando
 # você declara os {} e depois no .format você define em ordem as variaveis
 # Se você quiser pode colocar ordem nos {} ex: {0} {1} {2}
-
-#oi testando oi
